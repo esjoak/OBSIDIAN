@@ -1,0 +1,2 @@
+Naturaleza del estado de equilibrio. Constante de equilibrio. Interpretación. Efectos externos sobre los equilibrios. Efecto de la concentración y de la temperatura.
+Principio de Le Châtelier. Utilización de la constante de equilibrio. Cálculos numéricos. 

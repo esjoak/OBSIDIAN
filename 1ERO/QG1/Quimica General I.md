@@ -1,0 +1,6 @@
+[[ENLACE QUIMICO(INCOMPLETO)]]
+[[ESTADO GASEOSO(INCOMPLETO)]]
+[[ESTADO CONDENSADO(INCOMPLETO)]]
+[[TERMOQUIMICA(INCOMPLETO)]]
+[[ejercicios del libro de quimica]]
+![[Ficha Asignatura 2026-Quimica General I (0019).pdf]]

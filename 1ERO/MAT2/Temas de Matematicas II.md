@@ -1,0 +1,1 @@
+[[Tema 1- Antiderivadas. La integral indefinida.]] Propiedades de integrales indefinidas. Cálculo de integraleselementales. Aplicaciones: movimiento rectilı́neo uniforme y variado, mecánica de fluidos.
